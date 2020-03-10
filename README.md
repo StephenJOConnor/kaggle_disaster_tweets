@@ -1,4 +1,4 @@
-# kaggle_disaster_tweets
+# Kaggle Disaster Tweets
 
 Models prepared for the Kaggle Disaster Tweets competition: https://www.kaggle.com/c/nlp-getting-started/overview. 
 
